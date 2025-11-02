@@ -1,0 +1,411 @@
+[
+    {
+        "address": "123 Main St",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "12345",
+        "price": 251675.85,
+        "time_on_market": 8
+    },
+    {
+        "address": "456 Elm St",
+        "city": "Townsville",
+        "state": "NY",
+        "zip_code": "54321",
+        "price": 153423.12,
+        "time_on_market": 14
+    },
+    {
+        "address": "789 Oak Ave",
+        "city": "Villageton",
+        "state": "TX",
+        "zip_code": "67890",
+        "price": 300789.76,
+        "time_on_market": 5
+    },
+    {
+        "address": "101 Pine Blvd",
+        "city": "Hamletville",
+        "state": "FL",
+        "zip_code": "98765",
+        "price": 201234.43,
+        "time_on_market": 11
+    },
+    {
+        "address": "202 Maple Dr",
+        "city": "Boroughburg",
+        "state": "IL",
+        "zip_code": "43210",
+        "price": 351678.24,
+        "time_on_market": 20
+    },
+    {
+        "address": "303 Cedar Ln",
+        "city": "Villagetown",
+        "state": "OH",
+        "zip_code": "13579",
+        "price": 451234.97,
+        "time_on_market": 2
+    },
+    {
+        "address": "404 Birch Ct",
+        "city": "Metropolis",
+        "state": "GA",
+        "zip_code": "24680",
+        "price": 120789.68,
+        "time_on_market": 17
+    },
+    {
+        "address": "505 Redwood Rd",
+        "city": "Suburbia",
+        "state": "MI",
+        "zip_code": "86420",
+        "price": 275891.35,
+        "time_on_market": 10
+    },
+    {
+        "address": "606 Spruce Ave",
+        "city": "Citytown",
+        "state": "WA",
+        "zip_code": "97531",
+        "price": 180567.55,
+        "time_on_market": 7
+    },
+    {
+        "address": "707 Fir Way",
+        "city": "Villageville",
+        "state": "PA",
+        "zip_code": "75310",
+        "price": 401234.79,
+        "time_on_market": 13
+    },
+    {
+        "address": "808 Pinecone Pl",
+        "city": "Hamletville",
+        "state": "NJ",
+        "zip_code": "36912",
+        "price": 211234.91,
+        "time_on_market": 9
+    },
+    {
+        "address": "909 Oakwood Ave",
+        "city": "Townsville",
+        "state": "CO",
+        "zip_code": "25847",
+        "price": 320567.01,
+        "time_on_market": 15
+    },
+    {
+        "address": "111 Willow Dr",
+        "city": "Boroughburg",
+        "state": "NV",
+        "zip_code": "74123",
+        "price": 280567.47,
+        "time_on_market": 22
+    },
+    {
+        "address": "222 Elmwood Ln",
+        "city": "Villageton",
+        "state": "UT",
+        "zip_code": "96385",
+        "price": 370123.78,
+        "time_on_market": 4
+    },
+    {
+        "address": "333 Cedar Ct",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "15963",
+        "price": 230456.62,
+        "time_on_market": 18
+    },
+    {
+        "address": "444 Oakhill Rd",
+        "city": "Metropolis",
+        "state": "TX",
+        "zip_code": "35791",
+        "price": 191234.33,
+        "time_on_market": 6
+    },
+    {
+        "address": "555 Maple Ave",
+        "city": "Suburbia",
+        "state": "IL",
+        "zip_code": "75369",
+        "price": 420345.99,
+        "time_on_market": 12
+    },
+    {
+        "address": "121 Redwood Pl",
+        "city": "Villageton",
+        "state": "UT",
+        "zip_code": "96385",
+        "price": 370567.78,
+        "time_on_market": 4
+    },
+    {
+        "address": "222 Oak Ln",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "15963",
+        "price": 232345.62,
+        "time_on_market": 18
+    },
+    {
+        "address": "333 Cedar Rd",
+        "city": "Metropolis",
+        "state": "TX",
+        "zip_code": "35791",
+        "price": 192345.33,
+        "time_on_market": 6
+    },
+    {
+        "address": "555 Pine Pl",
+        "city": "Suburbia",
+        "state": "IL",
+        "zip_code": "75369",
+        "price": 423345.99,
+        "time_on_market": 12
+    },
+    {
+        "address": "126 Elm Ave",
+        "city": "Citytown",
+        "state": "WA",
+        "zip_code": "97531",
+        "price": 180123.55,
+        "time_on_market": 7
+    },
+    {
+        "address": "729 Birch Way",
+        "city": "Villageville",
+        "state": "PA",
+        "zip_code": "75310",
+        "price": 401567.79,
+        "time_on_market": 13
+    },
+    {
+        "address": "333 Oakwood Pl",
+        "city": "Hamletville",
+        "state": "NJ",
+        "zip_code": "36912",
+        "price": 211567.91,
+        "time_on_market": 9
+    },
+    {
+        "address": "999 Oakwood Ave",
+        "city": "Townsville",
+        "state": "CO",
+        "zip_code": "25847",
+        "price": 320789.01,
+        "time_on_market": 15
+    },
+    {
+        "address": "111 Willow Rd",
+        "city": "Boroughburg",
+        "state": "NV",
+        "zip_code": "74123",
+        "price": 280789.47,
+        "time_on_market": 22
+    },
+    {
+        "address": "888 Elmwood Ln",
+        "city": "Villageton",
+        "state": "UT",
+        "zip_code": "96385",
+        "price": 372345.78,
+        "time_on_market": 4
+    },
+    {
+        "address": "333 Pine Ct",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "15963",
+        "price": 232789.62,
+        "time_on_market": 18
+    },
+    {
+        "address": "111 Birch Rd",
+        "city": "Metropolis",
+        "state": "TX",
+        "zip_code": "35791",
+        "price": 192789.33,
+        "time_on_market": 6
+    },
+    {
+        "address": "555 Redwood Ave",
+        "city": "Suburbia",
+        "state": "IL",
+        "zip_code": "75369",
+        "price": 423567.99,
+        "time_on_market": 12
+    },
+    {
+        "address": "123 Maple Pl",
+        "city": "Citytown",
+        "state": "WA",
+        "zip_code": "97531",
+        "price": 181234.55,
+        "time_on_market": 7
+    },
+    {
+        "address": "456 Cedar Way",
+        "city": "Villageville",
+        "state": "PA",
+        "zip_code": "75310",
+        "price": 402345.79,
+        "time_on_market": 13
+    },
+    {
+        "address": "789 Birchwood Pl",
+        "city": "Hamletville",
+        "state": "NJ",
+        "zip_code": "36912",
+        "price": 212345.91,
+        "time_on_market": 9
+    },
+    {
+        "address": "101 Pine Way",
+        "city": "Townsville",
+        "state": "CO",
+        "zip_code": "25847",
+        "price": 321234.01,
+        "time_on_market": 15
+    },
+    {
+        "address": "202 Cedar Ave",
+        "city": "Boroughburg",
+        "state": "NV",
+        "zip_code": "74123",
+        "price": 281234.47,
+        "time_on_market": 22
+    },
+    {
+        "address": "303 Pine Ln",
+        "city": "Villageton",
+        "state": "UT",
+        "zip_code": "96385",
+        "price": 373456.78,
+        "time_on_market": 4
+    },
+    {
+        "address": "404 Birch Ct",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "15963",
+        "price": 233789.62,
+        "time_on_market": 18
+    },
+    {
+        "address": "505 Oakhill Rd",
+        "city": "Metropolis",
+        "state": "TX",
+        "zip_code": "35791",
+        "price": 193567.33,
+        "time_on_market": 6
+    },
+    {
+        "address": "606 Elmwood Dr",
+        "city": "Suburbia",
+        "state": "IL",
+        "zip_code": "75369",
+        "price": 424567.99,
+        "time_on_market": 12
+    },
+    {
+        "address": "707 Cedar Pl",
+        "city": "Citytown",
+        "state": "WA",
+        "zip_code": "97531",
+        "price": 182345.55,
+        "time_on_market": 7
+    },
+    {
+        "address": "808 Oakwood Ln",
+        "city": "Villageville",
+        "state": "PA",
+        "zip_code": "75310",
+        "price": 403567.79,
+        "time_on_market": 13
+    },
+    {
+        "address": "909 Birch Ave",
+        "city": "Hamletville",
+        "state": "NJ",
+        "zip_code": "36912",
+        "price": 213567.91,
+        "time_on_market": 9
+    },
+    {
+        "address": "121 Pine Rd",
+        "city": "Townsville",
+        "state": "CO",
+        "zip_code": "25847",
+        "price": 322345.01,
+        "time_on_market": 15
+    },
+    {
+        "address": "222 Redwood Pl",
+        "city": "Boroughburg",
+        "state": "NV",
+        "zip_code": "74123",
+        "price": 282345.47,
+        "time_on_market": 22
+    },
+    {
+        "address": "333 Maple Way",
+        "city": "Villageton",
+        "state": "UT",
+        "zip_code": "96385",
+        "price": 374567.78,
+        "time_on_market": 4
+    },
+    {
+        "address": "444 Cedar Ave",
+        "city": "Cityville",
+        "state": "CA",
+        "zip_code": "15963",
+        "price": 234567.62,
+        "time_on_market": 18
+    },
+    {
+        "address": "555 Pine Ct",
+        "city": "Metropolis",
+        "state": "TX",
+        "zip_code": "35791",
+        "price": 194567.33,
+        "time_on_market": 6
+    },
+    {
+        "address": "666 Elm Rd",
+        "city": "Suburbia",
+        "state": "IL",
+        "zip_code": "75369",
+        "price": 425567.99,
+        "time_on_market": 12
+    },
+    {
+        "address": "777 Cedar Ln",
+        "city": "Citytown",
+        "state": "WA",
+        "zip_code": "97531",
+        "price": 183567.55,
+        "time_on_market": 7
+    },
+    {
+        "address": "888 Oak Pl",
+        "city": "Villageville",
+        "state": "PA",
+        "zip_code": "75310",
+        "price": 404567.79,
+        "time_on_market": 13
+    },
+    {
+        "address": "999 Birchwood Pl",
+        "city": "Hamletville",
+        "state": "NJ",
+        "zip_code": "36912",
+        "price": 214567.91,
+        "time_on_market": 9
+    }
+]
+
