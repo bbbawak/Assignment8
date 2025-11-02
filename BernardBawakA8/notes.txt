@@ -1,0 +1,10 @@
+Custom Query Description:
+
+The custom query filters houses based on two properties of different data types:
+1. Price (double/numeric) - filters houses with Price > $200,000
+2. TimeOnMarket (int/numeric) - filters houses with TimeOnMarket > 10 months
+
+The query then groups the results by State (string), and orders the groups by their average price in descending order. Within each state group, houses are ordered by price in descending order.
+
+This demonstrates comparing two numeric properties (Price and TimeOnMarket) which are of different numeric types (double and int), performing a GroupBy operation on the State property, and using OrderBy to organize both the groups and items within groups.
+
